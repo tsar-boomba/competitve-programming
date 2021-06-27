@@ -4,12 +4,12 @@
 #include <cstdint>
 #include <cassert>
 #include <cmath>
-#include <string>
 
 using namespace std;
 
-int main(){
-    double n, m, a;
-    cin >> n >> m >> a;
-    cout << (long long)(ceil(n / a) * ceil(m / a));
+int main() {
+    double m, n;
+    cin >> m >> n;
+    cout << floor((long long)((m * n) / 2));
+    return 0;
 }
