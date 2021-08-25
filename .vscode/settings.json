@@ -1,5 +1,18 @@
 {
-    "files.associations": {
-        "xstring": "cpp"
-    }
+	"files.associations": {
+		"xstring": "cpp",
+		"vector": "cpp",
+		"iostream": "cpp",
+		"istream": "cpp",
+		"iosfwd": "cpp",
+		"ios": "cpp",
+		"xiosbase": "cpp",
+		"system_error": "cpp",
+		"atomic": "cpp",
+		"cstddef": "cpp",
+		"string": "cpp",
+		"corecrt.h": "c",
+		"vcruntime.h": "c",
+		"vadefs.h": "c"
+	}
 }
